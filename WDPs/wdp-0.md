@@ -3,7 +3,7 @@
     WDP: [0](https://dao.projectwyvern.com/proposals/0)
     Title: Change Board Member Share Threshold to 10 WYV
     Author: Protinam <protinam@protonmail.ch>, MCFX2 (MCFX2 on Riot & Discord)
-    Status: Draft
+    Status: Passed
     Created: 2018-01-09
 
 ## Summary
